@@ -1,5 +1,5 @@
 <?php
-//try{
+/*try{
 	for($i=1;$i<=9;$i++){
 		for($a=1;$a<=$i;$a++){
 			$d=$a*$i;
@@ -16,7 +16,7 @@
 		}
 		echo "<br/>";
 	}
-//	
+*/	
 //	
 //}catch(Exception $e){
 //	echo $e->getMessage();
