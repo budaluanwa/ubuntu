@@ -1,7 +1,5 @@
 <?php
-echo 1111;
-
-
+echo "fafdsf";
 /*try{
 	for($i=1;$i<=9;$i++){
 		for($a=1;$a<=$i;$a++){
